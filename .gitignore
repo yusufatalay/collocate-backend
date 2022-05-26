@@ -1,0 +1,4 @@
+*.env
+api/.env
+collocate-6978d-firebase-adminsdk-lvnuk-86e912294f.json
+logs*
